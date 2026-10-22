@@ -1,0 +1,18 @@
+{
+  "title": "uhi-evaluation-methods: code for the evaluation of urban heat island evaluation methods in a convection-permitting regional climate model",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    {"name": "Adriaensen, Leon", "affiliation": "Ghent University"},
+    {"name": "Vandelanotte, Kobe", "affiliation": "Ghent University; Royal Meteorological Institute of Belgium"},
+    {"name": "Dewettinck, Wout", "affiliation": "Ghent University"},
+    {"name": "Top, Sara", "affiliation": "Ghent University; Royal Meteorological Institute of Belgium; Vrije Universiteit Brussel"},
+    {"name": "Caluwaerts, Steven", "affiliation": "Ghent University; Royal Meteorological Institute of Belgium"}
+  ],
+  "description": "Quality control of urban climate network and meteorological service observations, the seven urban heat island (UHI) evaluation methods (p2p, a2a, p2a) and the figures and tables of the accompanying paper on how the choice of UHI evaluation method affects the assessment of a convection-permitting regional climate model for nine European cities. Includes a modified copy of URCLIMASK (Apache-2.0, Copyright 2023 European Union).",
+  "keywords": ["urban heat island", "model evaluation", "convection-permitting regional climate model", "urban climate networks", "CORDEX FPS URB-RCC"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/FPS-URB-RCC/URCLIMASK", "relation": "isDerivedFrom", "scheme": "url"},
+    {"identifier": "10.1038/s41597-025-06257-1", "relation": "references", "scheme": "doi"}
+  ]
+}

@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software archive."
+title: "uhi-evaluation-methods: code for the evaluation of urban heat island evaluation methods in a convection-permitting regional climate model"
+version: 1.0.0
+license: Apache-2.0
+repository-code: "https://github.com/ADRIE-A3/uhi-evaluation-methods"
+# doi: 10.5281/zenodo.XXXXXXX   # filled in after the first Zenodo release
+authors:
+  - family-names: Adriaensen
+    given-names: Leon
+    affiliation: Ghent University
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: Vandelanotte
+    given-names: Kobe
+    affiliation: Ghent University; Royal Meteorological Institute of Belgium
+  - family-names: Dewettinck
+    given-names: Wout
+    affiliation: Ghent University
+  - family-names: Top
+    given-names: Sara
+    affiliation: Ghent University; Royal Meteorological Institute of Belgium; Vrije Universiteit Brussel
+  - family-names: Caluwaerts
+    given-names: Steven
+    affiliation: Ghent University; Royal Meteorological Institute of Belgium
+keywords:
+  - urban heat island
+  - model evaluation
+  - convection-permitting regional climate model
+  - urban climate networks
+references:
+  - type: software
+    title: URCLIMASK
+    authors:
+      - name: "FPS URB-RCC"
+    repository-code: "https://github.com/FPS-URB-RCC/URCLIMASK"
+    license: Apache-2.0
+  - type: article
+    title: "A global CORDEX-based dataset of urban areas and their surroundings for megacities"
+    authors:
+      - family-names: Diez-Sierra
+        given-names: J.
+      - family-names: Quintana
+        given-names: Y.
+      - family-names: Langendijk
+        given-names: G. S.
+    journal: Scientific Data
+    volume: 12
+    start: 1961
+    year: 2025
+    doi: 10.1038/s41597-025-06257-1

@@ -1,0 +1,24 @@
+uhi-evaluation-methods
+Copyright 2026 Leon Adriaensen, Ghent University
+
+This product includes software developed within URCLIMASK
+(https://github.com/FPS-URB-RCC/URCLIMASK), Copyright 2023, European Union,
+licensed under the Apache License, Version 2.0.
+
+The URCLIMASK code is included in scripts/analysis/method_3_urclimask/urclimask/.
+It is based on URCLIMASK commit b779ebc (2025-10-01) and was modified by
+Leon Adriaensen (Ghent University) in 2025-2026. Each file there states at the
+top whether and how it was modified. In short:
+  - GHCNd_stations.py: unmodified;
+  - urban_areas.py: bounds-safe cropping, descending lat/lon axes, safeguards
+    against endless loops in the urban/rural mask iteration;
+  - utils.py: urban/rural station classification (UCDB urban centre, LCZ),
+    point-to-point UHI, p2a plotting, grid-alignment and mask-polygon helpers;
+  - UHI_analysis.py: station grouping, obs/sim overlap checks, observed vs
+    simulated UHI time series and additional plots;
+  - load_data.py: new file, not part of upstream URCLIMASK.
+
+When using the URCLIMASK masks, please also cite:
+  Diez-Sierra, J., Quintana, Y., Langendijk, G. S., et al. (2025). A global
+  CORDEX-based dataset of urban areas and their surroundings for megacities.
+  Scientific Data, 12, 1961. https://doi.org/10.1038/s41597-025-06257-1

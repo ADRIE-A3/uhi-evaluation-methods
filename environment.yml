@@ -1,0 +1,28 @@
+name: UHI_eval_sens
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - pandas=2.3
+  - xarray=2026.4
+  - dask=2026.3
+  - netcdf4=1.7
+  - cftime=1.6
+  - cf_xarray=0.11
+  - scipy=1.17
+  - scikit-image=0.26
+  - matplotlib=3.10
+  - cartopy=0.25
+  - geopandas=1.1
+  - shapely=2.1
+  - pyproj=3.7
+  - rasterio=1.4
+  - osmnx=2.1
+  - folium=0.20
+  - icecream=2.2
+  - ipykernel
+  - jupyterlab
+  - pip
+  - pip:
+      - metobs-toolkit==1.1.1

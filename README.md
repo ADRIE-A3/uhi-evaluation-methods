@@ -119,7 +119,7 @@ read the per-city results in `results/data/`.
 |---|---|---|
 | Fig. 1 | `analysis/method_3_urclimask/Eurocities_urclimmask_Rennes_illustration_methods.ipynb` | `results/figures/Rennes/method_2_urclimask_city_network/illustration_different_methodsRennes_tasmin_v2.pdf` (assembled into `results/figures/Rennes/methods_illustration_rennes.png`) |
 | Fig. 2 | `plotting/fig2_bias_spread_rennes.ipynb` | `results/figures/Rennes/bias_spread_rennes.png` |
-| Tables (bias, observed/simulated UHIN) | `analysis/comparing_methods/compare_methods.ipynb` | `results/tables/comparing_methods/*.tex` |
+| Table 1 (bias, observed and simulated UHIN) | `analysis/comparing_methods/compare_methods.ipynb` | `results/tables/comparing_methods/uhin_merged_table.tex` (separate blocks in the other `*.tex` files there) |
 | SI simulation domain | `plotting/domain_visualisation.ipynb` | `results/figures/Supplementary_Information/simulation_domain_with_cities.png` |
 | SI dot plots | `analysis/comparing_methods/compare_methods.ipynb` | `results/figures/Supplementary_Information/dotplot_UHIN_{bias,obs}_JJA_per_method.pdf` |
 | SI network tables | `analysis/method_3_urclimask/Eurocities_urclimmask_<City>_.ipynb` | `results/data/<City>/obs_attributes_*.tex` |

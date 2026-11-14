@@ -4,7 +4,7 @@ title: "uhi-evaluation-methods: code for the evaluation of urban heat island eva
 version: 1.0.0
 license: Apache-2.0
 repository-code: "https://github.com/ADRIE-A3/uhi-evaluation-methods"
-# doi: 10.5281/zenodo.XXXXXXX   # filled in after the first Zenodo release
+doi: 10.5281/zenodo.24219178
 authors:
   - family-names: Adriaensen
     given-names: Leon

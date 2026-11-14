@@ -38,7 +38,7 @@ Other code abbreviations: `un` = urban (climate) network (UCN), `ms` = meteorolo
 for historical reasons; they hold p2p/a2a output.
 
 * Data (Zenodo): https://doi.org/10.5281/zenodo.23591294
-* Code archive (Zenodo): every release of this repository is archived on Zenodo; the DOI badge is added after the first release.
+* Code archive (Zenodo): https://doi.org/10.5281/zenodo.24219178
 
 ## Repository layout
 

@@ -37,8 +37,8 @@ Other code abbreviations: `un` = urban (climate) network (UCN), `ms` = meteorolo
 `combined_network` = UCN and MS together. Some figure folders are called `method_2_urclimask_*`
 for historical reasons; they hold p2p/a2a output.
 
-- **Code archive (Zenodo):** https://doi.org/10.5281/zenodo.XXXXXXX
-- **Data (Zenodo):** https://doi.org/10.5281/zenodo.XXXXXXX
+* Data (Zenodo): https://doi.org/10.5281/zenodo.23591294
+* Code archive (Zenodo): every release of this repository is archived on Zenodo; the DOI badge is added after the first release.
 
 ## Repository layout
 
